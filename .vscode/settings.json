@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "errno.h": "c",
+        "errno-base.h": "c",
+        "unistd.h": "c",
+        "pthread.h": "c",
+        "semaphore.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "types.h": "c",
+        "stdio.h": "c"
+    }
+}
